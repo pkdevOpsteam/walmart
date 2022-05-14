@@ -1,3 +1,3 @@
-updating this file again for the confirmation..
+updating this file ..
 Added this line for update
 This file contains the DB connection logic..
